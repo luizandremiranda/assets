@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="./assets/perfil.jpg" width="180px">
+<img src="perfil.png" width="1900px">
 
 </div>
 
