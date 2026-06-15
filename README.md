@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Futuro+Desenvolvedor+Front-End;Estudante+de+Tecnologia+no+SENAI;Transformando+experiência+em+soluções+digitais"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Futuro+Desenvolvedor+Front-End;Em+transição+de+carreira+para+Tecnologia;Da+indústria+ao+código+🚀;Transformando+experiência+em+soluções+digitais"/>
 
 </div>
 
