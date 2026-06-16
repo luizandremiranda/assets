@@ -1,9 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Luiz%20André%20Santos%20Miranda&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=LUIZ%20ANDRÉ%20%7C%20FRONT-END%20DEVELOPER&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
 </div>
-
 
 <div align="center">
 
