@@ -133,22 +133,6 @@ Ferramentas que fazem parte da minha jornada:
 - 🤖 Inteligência Artificial Generativa
 
 
----
-
-# 📚 Conhecimentos atuais
-
-
-| Tecnologia | Nível |
-|---|---|
-| HTML5 | 🟢 Iniciante |
-| CSS3 | 🟢 Iniciante |
-| JavaScript | 🟢 Iniciante |
-| Git | 🟢 Iniciante |
-| GitHub | 🟢 Iniciante |
-| Lógica de Programação | 🟢 Em desenvolvimento |
-
-
----
 
 # 🏭 Experiência profissional
 
@@ -295,7 +279,7 @@ Em breve este espaço será atualizado com:
 <div align="center">
 
 
-Obrigado pela visita! 🚀
+<h1>Obrigado pela visita! 🚀</h1>
 
 
 </div>
